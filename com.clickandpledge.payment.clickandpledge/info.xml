@@ -5,7 +5,9 @@
   <name>ClickandPledge</name>
   <description>Click &amp; Pledge Payment Processor</description>
   <urls>
-    <url desc="Main Extension Page">http://manual.clickandpledge.com</url>
+    <url desc="Main Extension Page">http://manual.clickandpledge.com/CiviCRM-Joomla.html</url>
+    <url desc="Documentation">http://manual.clickandpledge.com/CiviCRM-Joomla.html</url>
+    <url desc="Support">https://forums.clickandpledge.com/forumdisplay.php?f=68</url>
   </urls>
   <license>AGPL</license>
   <maintainer>
@@ -15,7 +17,7 @@
   <releaseDate>2013-06-12</releaseDate>
   <version>2.1</version>
   <develStage>stable</develStage>
-  <compatibility><ver>4.2</ver></compatibility>
+  <compatibility><ver>4.3</ver></compatibility>
   <comments>For support, please contact project team on the forums.</comments>
   <typeInfo>
    <userNameLabel>Account ID</userNameLabel>
